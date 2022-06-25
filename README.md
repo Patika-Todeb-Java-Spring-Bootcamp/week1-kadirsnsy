@@ -1,5 +1,6 @@
 # week1-kadirsnsy
-week1-kadirsnsy created by GitHub Classroom
+
+***NOT: Ödev2 ve Ödev3 diğer Branch içindedir.
 
 Immutable class için örnek bir projedir.
 
